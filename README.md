@@ -12,7 +12,7 @@ KIPENZI is an application that enables users to order their pizza online.
 ### Contact Information
   * EMAIL:shadrackanayo@gmail.com
 ### Link to Deployed System
-  * Link:
+  * Link: https://shack1234.github.io/Pizza/.
 ### License and Copyright Information.
 click the link below to view the licence.
  
