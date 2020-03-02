@@ -86,7 +86,6 @@ function addItemToCart(title, price, imageSrc) {
     .getElementsByClassName("cart-quantity-input")[0]
     .addEventListener("change", quantityChanged);
 }
-
 function updateCartTotal() {
   var cartItemContainer = document.getElementsByClassName("cart-items")[0];
   var cartRows = cartItemContainer.getElementsByClassName("cart-row");
